@@ -1,7 +1,3 @@
-PULL_REQUEST_TEMPLATE.md
-
-
-
 ## Summary
 Briefly describe the change and why it’s needed.
 
